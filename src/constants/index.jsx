@@ -34,7 +34,7 @@ export const HERO = {
   name: "DILIP KUMAR",
   greet: "Hello there! 👋🏻",
   description:
-    "I am a passionate frontend developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences for over a decade.",
+    "A Frontend Developer with 2 years of experience in React, TypeScript, and UI libraries like Chakra UI and Ant Design. Skilled in building responsive UIs, integrating APIs, and optimizing performance to enhance user experience.",
 };
 
 export const PROJECTS = [
