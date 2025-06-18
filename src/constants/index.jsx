@@ -98,22 +98,22 @@ export const SKILLS = [
   {
     icon: <RiReactjsLine className="text-4xl text-cyan-400 lg:text-5xl" />,
     name: "React",
-    experience: "1.9 years",
+    experience: "2+ years",
   },
   {
     icon: <AiOutlineJavaScript className="text-4xl text-yellow-300 lg:text-5xl" />,
     name: "Javascript",
-    experience: "1.9+ year",
+    experience: "2+ year",
   },
   {
     icon: <SiTypescript className="text-4xl text-blue-600 lg:text-5xl" />,
     name: "TypeScript",
-    experience: "1+ years",
+    experience: "2+ years",
   },
   {
     icon: <SiMysql className="text-4xl text-white lg:text-5xl" />,
     name: "MySQL",
-    experience: "0.5 year",
+    experience: "1+ year",
   },
   {
     icon: <TbBrandRedux className="text-4xl text-purple-400 lg:text-5xl" />,
@@ -123,7 +123,7 @@ export const SKILLS = [
   {
     icon: <FaGithub className="text-4xl text-white lg:text-5xl" />,
     name: "Github",
-    experience: "0.5 year",
+    experience: "1+ year",
   },
 ];
 
@@ -131,7 +131,7 @@ export const EXPERIENCES = [
   {
     title: "Frontend Developer",
     company: "Ascend International",
-    duration: "Jan 2023 - Sep 2024",
+    duration: "July 2022 - Sep 2024",
     description:
       "As the Frontend Developer, I spearheaded the development of  web applications using cutting-edge technologies like React, Redux, and TypeScript. I worked closely with cross-functional teams, including designers, product managers, and backend developers, to deliver seamless and high-performance user experiences.",
   },
